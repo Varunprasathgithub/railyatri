@@ -19,7 +19,6 @@ public class DriverUtils extends BasePage {
     }
 
 
-
     @After
     public void closeBrowserSession() {
         driver.quit();
